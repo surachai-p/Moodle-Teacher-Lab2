@@ -19,7 +19,7 @@
 | 1 | **Multiple Choice** | มีข้อสอบ MC พร้อม Feedback ทุกตัวเลือก | `[ ✅]` |
 | 2 | **True / False** | มีข้อสอบ T/F พร้อม Feedback ทั้ง True และ False | `[ ✅]` |
 | 3 | **Short Answer** | มีข้อสอบ SA พร้อม Answer Pattern มากกว่า 1 รูปแบบ | `[ ✅]` |
-| 4 | **Essay** | มีข้อสอบ Essay พร้อม Grader information | `[ ]` |
+| 4 | **Essay** | มีข้อสอบ Essay พร้อม Grader information | `[✅]` |
 | 5 | **Matching** | มีข้อสอบ Matching พร้อม Distractor อย่างน้อย 1 รายการ | `[✅ ]` |
 | 6 | **Numerical** | มีข้อสอบ Numerical พร้อมค่า Error margin | `[✅ ]` |
 | 7 | **Calculated** | มีข้อสอบ Calculated พร้อม Wild card dataset | `[✅ ]` |
