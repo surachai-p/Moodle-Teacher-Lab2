@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+  <question type="multichoice">
+    <name>
+      <text>HW-MC-001</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[อุปกรณ์ใดเป็นหน่วยประมวลผลกลาง?]]></text>
+    </questiontext>
+
+    <answer fraction="100">
+      <text>CPU</text>
+    </answer>
+
+    <answer fraction="0">
+      <text>RAM</text>
+    </answer>
+
+    <answer fraction="0">
+      <text>HDD</text>
+    </answer>
+
+    <answer fraction="0">
+      <text>Monitor</text>
+    </answer>
+
+  </question>
+
+
+  <question type="truefalse">
+    <name>
+      <text>HW-TF-001</text>
+    </name>
+
+    <questiontext format="html">
+      <text><![CDATA[RAM เป็นหน่วยความจำชั่วคราว]]></text>
+    </questiontext>
+
+    <answer fraction="100">
+      <text>true</text>
+    </answer>
+
+    <answer fraction="0">
+      <text>false</text>
+    </answer>
+
+  </question>
+
+</quiz>
